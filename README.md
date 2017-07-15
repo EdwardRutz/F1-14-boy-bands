@@ -1,16 +1,15 @@
 # Boy bands and vegetables
 
-## Setup
+## Exercise
 
-These commands are a helpful quick start. You may choose to ignore them completely and create your own directory structure. If you choose to use this recommendation, just copy the commands below, open a terminal window and paste. It doesn't matter what directory you are currently in.
+Loop through the two arrays provided (`bands` and `vegetables`) and output each element in the arrays into their corresponding HTML `<div>` element. Ensure that each item is in a block element (e.g. li, div, p. etc...)
 
-```bash
-mkdir -p ~/workspace/exercises/the-static-web/boybands && cd $_
-touch index.html
-touch boybands.js
-```
 
-## Requirements
+
+
+
+
+## Hints
 
 Paste the following code into the `<body>` of the HTML file.
 
@@ -55,6 +54,3 @@ for (var loopTracker = 0; loopTracker < loopCount; loopTracker += 1) {
 
 }
 ```
-
-
-Loop through the two arrays provided (`bands` and `vegetables`) and output each element in the arrays into their corresponding HTML `<div>` element. Ensure that each item is in a block element (e.g. li, div, p. etc...)
