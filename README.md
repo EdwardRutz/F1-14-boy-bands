@@ -11,7 +11,7 @@ Loop through the two arrays provided (`bands` and `vegetables`) and output each 
 
 ## Hints
 
-Paste the following code into the `<body>` of the HTML file.
+[X] Paste the following code into the `<body>` of the HTML file.
 
 ```html
 <div id="boy-bands">
@@ -21,7 +21,7 @@ Paste the following code into the `<body>` of the HTML file.
 </div>
 ```
 
-Paste the following code into your JavaScript file.
+[X] Paste the following code into your JavaScript file.
 
 ```js
 var bands = ["Boyz II Men", "NSync", "New Kids on the Block", "98 Degrees", "One Direction"];
